@@ -1,9 +1,9 @@
 ### Hi, 👋 I am Shubham Prakash 
 
 
-**shubhamprkash/shubhamprkash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-- **shubhamprkash/shubhamprkash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -->
+Here are some ideas to get you to know me :
 
 - 🔭 I’m currently working on Roc8.careers challenge projects.
 - 🌱 I’m currently learning React JS
