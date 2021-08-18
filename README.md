@@ -19,6 +19,7 @@
 <div style="display:inline_block" align="center">
   <a href="https://github.com/shubhamprkash">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shubhamprkash&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+ &emsp; &emsp;
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamprkash&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
 <div style="display: inline_block" align="center"><br>
