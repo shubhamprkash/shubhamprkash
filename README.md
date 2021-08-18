@@ -35,8 +35,8 @@
    <img align="center" alt="Kayan-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
  
 <!--   <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-  <img align="right" alt="Ana-img" src="https://i.picasion.com/pic91/316d92abd389bf838629786b0de67f9c.gif">
- 
+<!--   <img align="right" alt="Ana-img" src="https://i.picasion.com/pic91/316d92abd389bf838629786b0de67f9c.gif">
+  -->
 </div>
   
   ##
