@@ -6,7 +6,7 @@
  
 <h3 align="center">Little bit about me : 😉!</h3>
 
-- 🔭 I’m currently working on Roc8.careers challenge projects.
+<!-- - 🔭 I’m currently working on Roc8.careers challenge projects. -->
 
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on any intriguing project.
