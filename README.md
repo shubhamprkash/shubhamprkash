@@ -4,17 +4,15 @@
 <!-- **shubhamprkash/shubhamprkash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
  
-<h3 align="center">Little bit about me : 😉!</h3>
+<h3 align="center">Little bit about me : 😉✨</h3>
 
 <!-- - 🔭 I’m currently working on Roc8.careers challenge projects. -->
-
+- 😄 Pronouns: He/Him
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on any intriguing project.
 - 🤔 I’m looking for help in learning JS little better.
 <!-- - 💬 Ask me about anything, i will answer soon.. -->
 - 📫 How to reach me: [@shubhamprkash](https://linkedin.com/in/shubhamprkash)
-- 😄 Pronouns: He/Him
-
 - ⚡ Fun fact: I don't like reading 😛
 
 <div style="display:inline_block" align="center">
