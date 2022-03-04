@@ -11,10 +11,9 @@
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on any intriguing project.
 - 🤔 I’m looking for help in learning JS little better.
-<!-- - 💬 Ask me about anything, i will answer soon.. -->
 - 📫 How to reach me: [@shubhamprkash](https://linkedin.com/in/shubhamprkash)
 - ⚡ Fun fact: I don't like reading 😛
-
+<!-- - 💬 Ask me about anything, i will answer soon.. -->
 <div style="display:inline_block" align="center">
   <a href="https://github.com/shubhamprkash">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shubhamprkash&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
