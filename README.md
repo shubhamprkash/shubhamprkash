@@ -20,7 +20,8 @@
  &emsp; &emsp;
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamprkash&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
-<h2 style="text-align:center" align="center">Skilled with: </h2>
+ 
+<h2 style="text-align:center" align="center">Skilled in: </h2>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Ana-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
