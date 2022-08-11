@@ -9,7 +9,7 @@
 <!-- - 🔭 I’m currently working on Roc8.careers challenge projects. -->
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning React JS
-- 👯 I’m looking to collaborate on any intriguing project.
+- 👯 I’m looking to collaborate on OpenSource more.
 - 🤔 I’m looking for help in learning JS little better.
 - 📫 How to reach me: [@shubhamprkash](https://linkedin.com/in/shubhamprkash)
 - ⚡ Fun fact: I don't like reading 😛
