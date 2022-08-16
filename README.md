@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on OpenSource more.
 - 🤔 I’m looking for help in learning JS little better.
 - 📫 How to reach me: [@shubhamprkash](https://linkedin.com/in/shubhamprkash)
-- ⚡ Fun fact: I don't like reading 😛
+- ⚡ Fun fact: I don't like reading 😛 So i write blogs for others to read.
 <!-- - 💬 Ask me about anything, i will answer soon.. -->
 <div style="display:inline_block" align="center">
   <a href="https://github.com/shubhamprkash">
