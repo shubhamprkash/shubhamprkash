@@ -51,6 +51,9 @@
  
  ![](https://visitor-badge.glitch.me/badge?page_id=shubhamprkash.shubhamprkash)
  
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shubhamprkash" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shubhamprkash?trk=profile-badge">Shubham Prakash</a></div>
+              
+ 
   ![Snake animation](https://github.com/shubhamprkash/shubhamprkash/blob/output/github-contribution-grid-snake.svg)
  
 </div>
