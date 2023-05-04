@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on OpenSource more.
-- 🤔 I’m looking for career oppertunity on JavaScript.
+- 🤔 I’m looking for career opportunity on JavaScript.
 - 📫 How to reach me: [@shubhamprkash](https://linkedin.com/in/shubhamprkash)
 - ⚡ Fun fact: I don't like reading 😛 So i write blogs for others to read.
 <!-- - 💬 Ask me about anything, i will answer soon.. -->
