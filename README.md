@@ -49,7 +49,7 @@
   <!-- <a href = "mailto:shubhamprkash@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> -->
   <a href="https://www.linkedin.com/in/shubhamprkash" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![](https://visitor-badge.glitch.me/badge?page_id=shubhamprkash.shubhamprkash)
+ [](https://visitor-badge.glitch.me/badge?page_id=shubhamprkash.shubhamprkash)
  
  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shubhamprkash" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shubhamprkash?trk=profile-badge">Shubham Prakash</a></div>
               
