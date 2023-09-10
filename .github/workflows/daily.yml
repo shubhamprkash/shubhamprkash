@@ -35,12 +35,12 @@ jobs:
             echo "::notice::Snake files are up to date."
           fi
           
-  waka:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Update gist
-      uses: matchai/waka-box@master
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        GIST_ID: 40fabe4fbc612208eee108087d745c49
-        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+  # waka:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #   - name: Update gist
+  #     uses: matchai/waka-box@master
+  #     env:
+  #       GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  #       GIST_ID: 40fabe4fbc612208eee108087d745c49
+  #       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
