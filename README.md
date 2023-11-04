@@ -1,4 +1,4 @@
-### <h1 align="center">Hii,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Shubham Prakash </h1>
+### <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font-Righteous&center=true&size=40&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I+am+Shubham+Prakash!;" /></h1>
 
 
 <!-- **shubhamprkash/shubhamprkash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,11 +8,11 @@
 
 <!-- - 🔭 I’m currently working on Roc8.careers challenge projects. -->
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Full-Stack development
 - 👯 I’m looking to collaborate on OpenSource more.
 - 🤔 I’m looking for career opportunity on JavaScript.
 - 📫 How to reach me: [@shubhamprkash](https://linkedin.com/in/shubhamprkash)
-- ⚡ Fun fact: I don't like reading 😛 So i write blogs for others to read.
+- ⚡ Fun fact: I don't like reading 😛 So I write blogs for others to read.
 <!-- - 💬 Ask me about anything, i will answer soon.. -->
 <div style="display:inline_block" align="center">
   <a href="https://github.com/shubhamprkash">
@@ -49,11 +49,13 @@
   <!-- <a href = "mailto:shubhamprkash@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> -->
   <a href="https://www.linkedin.com/in/shubhamprkash" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- [](https://visitor-badge.glitch.me/badge?page_id=shubhamprkash.shubhamprkash)
+ <!--[](https://visitor-badge.glitch.me/badge?page_id=shubhamprkash.shubhamprkash) -->
  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=shubhamprkash.shubhamprkash" />
- 
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shubhamprkash" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shubhamprkash?trk=profile-badge">Shubham Prakash</a></div>
-              
+ <!--
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shubhamprkash" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shubhamprkash?trk=profile-badge">Shubham Prakash</a>
+ </div>
+    -->          
  
   ![Snake animation](https://github.com/shubhamprkash/shubhamprkash/blob/output/github-contribution-grid-snake.svg)
   ![snake gif](https://github.com/shubhamprkash/shubhamprkash/blob/output/github-contribution-grid-snake.gif)
