@@ -60,8 +60,8 @@
   <br/>
  <!-- ![Snake animation](https://github.com/shubhamprkash/shubhamprkash/blob/output/github-contribution-grid-snake.svg) -->
 
-<!--  ![snake gif](https://github.com/shubhamprkash/shubhamprkash/blob/output/github-contribution-grid-snake.gif) -->
+  ![snake gif](https://github.com/shubhamprkash/shubhamprkash/blob/output/github-contribution-grid-snake.svg) 
  <div align="center">
-     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<!--      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shubhamprkash/shubhamprkash/output/github-contribution-grid-snake.svg" /> -->
   </div>
 </div>
